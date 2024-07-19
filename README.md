@@ -14,4 +14,4 @@ It is a voice assistant that uses OpenAI and IBM Watson Speech Library. This web
 - run the project : 'docker run -p 8000:8000 name-of-your-project'
 
 # Screenshot
-![Watch the demo](demo-video\screen-shot.png)
+![Watch the demo](demo/screen-shot.png)
