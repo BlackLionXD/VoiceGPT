@@ -14,4 +14,4 @@ It is a voice assistant that uses OpenAI and IBM Watson Speech Library. This web
 - run the project : 'docker run -p 8000:8000 name-of-your-project'
 
 # Screenrecord 
-![Watch the video](https://drive.google.com/file/d/1WCi3TDjNtXjHj74MuFwREBFr8xM_IyKa/view?usp=sharing)
+![Watch the video](https://github.com/BlackLionXD/Voicebot-with-flask/blob/main/demo-video/voice-assistant.mp4)
