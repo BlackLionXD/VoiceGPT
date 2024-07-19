@@ -7,7 +7,7 @@ It is a voice assistant that uses OpenAI and IBM Watson Speech Library. This web
 - install docker
 
 # Steps 
-- clone the project : 'git clone '
+- clone the project : 'git clone https://github.com/BlackLionXD/Voicebot-with-flask.git'
 - finish the above pre-requests.
 - start the docker.
 - buid the project : 'docker build . -t name-of-your-project'
